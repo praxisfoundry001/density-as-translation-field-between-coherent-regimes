@@ -49,6 +49,6 @@ Natural companion artifacts in this lane include:
 - *Dark Matter as Structural Failure Regimes of Persistence*
 
 ## Citation / DOI
-Zenodo DOI: pending
+Zenodo DOI: https://doi.org/10.5281/zenodo.19446137
 
 Full signed PDF available via DOI link after publication.
